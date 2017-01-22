@@ -1,0 +1,47 @@
+.jumbotron {
+	padding: 0; margin: 0; border-radius:0;
+}
+
+.main {
+	background-image: url("img/website1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: auto;
+}
+
+.arrow {
+	margin: auto;
+	width: 120px;
+}
+
+.main img {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.first {
+	margin-top: 30px;
+}
+
+.firstleft h4 {
+	color: white;
+	font-family: 'Poiret One';
+	text-align: center;
+	font-size: 70px;
+}
+
+.firstright h4 {
+	color: white;
+	font-family: 'Poiret One';
+	text-align: center;
+	font-size: 70px;
+}
+
+.main img {
+	width: 100%;
+}
+
+.second {
+	margin-top: 100px;
+
+}
