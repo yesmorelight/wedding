@@ -1,14 +1,6 @@
 /* GENERAL */
-* {
-	border-radius:0 !important;
-}
-
 .jumbotron {
-	border-radius:0;margin:0;padding:0;
-}
-
-.row {
-	margin:0;padding:0;
+	margin:0 !important; border-radius:0 !important;
 }
 
 /* LANDING */
