@@ -5,7 +5,7 @@
 
 /* LANDING */
 .main {
-	background-image: url("bg2.jpg");
+	background-image: url("bg3.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: auto;
@@ -14,11 +14,21 @@
 .arrow {
 	margin: auto;
 	width: 120px;
+	text-align: center;
 }
 
-.main img {
-	margin-left: 0;
-	margin-right: 0;
+/* .main img {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 70%;
+	text-align: center;
+} */
+
+.headimg {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 70%;
+	text-align: center;
 }
 
 .first {
