@@ -3,7 +3,7 @@
 }
 
 .main {
-	background-image: url("img/website1.jpg");
+	background-image: url("bg2.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: auto;
@@ -20,7 +20,7 @@
 }
 
 .first {
-	margin-top: 30px;
+	margin-top: 80px;
 }
 
 .firstleft h4 {
