@@ -28,13 +28,16 @@
 .firstmiddle h4 {
 	color: white;
 	font-family: 'Mr Bedfort';
+	text-align: justify;
 	text-align: center;
 	font-size: 60px;
+	margin-bottom: 30px;
 }
 
 .firstmiddle h3 {
 	color: white;
 	font-family: 'Poiret One';
+	text-align: justify;
 	text-align: center;
 	font-size: 70px;
 }
@@ -42,6 +45,7 @@
 .firstmiddle h3 {
 	color: white;
 	font-family: 'Poiret One';
+	text-align: justify;
 	text-align: center;
 	font-size: 70px;
 }
