@@ -1,9 +1,16 @@
+/* GENERAL */
 .jumbotron {
-	padding: 0; margin: 0; border-radius:0;
+	border-radius:0;
 }
 
+.container-fluid {
+	border-radius:0;
+}
+
+
+/* LANDING */
 .main {
-	background-image: url("bg2.jpg");
+	background-image: url("img/bg2.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: auto;
@@ -23,14 +30,21 @@
 	margin-top: 80px;
 }
 
-.firstleft h4 {
+.firstmiddle h4 {
+	color: white;
+	font-family: 'Poiret One';
+	text-align: center;
+	font-size: 60px;
+}
+
+.firstmiddle h3 {
 	color: white;
 	font-family: 'Poiret One';
 	text-align: center;
 	font-size: 70px;
 }
 
-.firstright h4 {
+.firstmiddle h3 {
 	color: white;
 	font-family: 'Poiret One';
 	text-align: center;
