@@ -1,12 +1,15 @@
 /* GENERAL */
 .jumbotron {
-	border-radius:0;
+	border-radius:0;margin:0;padding:0;
 }
 
 .container-fluid {
 	border-radius:0;
 }
 
+.row {
+	margin:0;padding:0;
+}
 
 /* LANDING */
 .main {
@@ -32,7 +35,7 @@
 
 .firstmiddle h4 {
 	color: white;
-	font-family: 'Poiret One';
+	font-family: 'Mr Bedfort';
 	text-align: center;
 	font-size: 60px;
 }
