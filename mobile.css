@@ -1,7 +1,12 @@
 .main img {
 	margin-left: 0;
 	margin-right: 0;
-	width: 100%;
+	width: 120%;
+}
+
+.arrow {
+	margin: auto;
+	width: 80px;
 }
 
 .firstmiddle h4 {
