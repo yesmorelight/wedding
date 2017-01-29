@@ -1,6 +1,6 @@
 /* GENERAL */
 * {
-	border-radius:0;
+	border-radius:0 !important;
 }
 
 .jumbotron {
