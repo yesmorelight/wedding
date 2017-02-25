@@ -1,3 +1,7 @@
+.jumbotron {
+	margin:0 !important; border-radius:0 !important;
+}
+
 .first {
 	margin-top: 0px;
 }
