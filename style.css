@@ -4,6 +4,7 @@
 }
 
 /* LANDING */
+
 .main {
 	background-image: url("bg3.png");
 	background-size: cover;
@@ -11,13 +12,7 @@
 	height: auto;
 }
 
-.arrow {
-	margin: auto;
-	width: 120px;
-	text-align: center;
-}
-
-/* .main img {
+/*.main img {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 70%;
@@ -27,12 +22,12 @@
 .headimg {
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 70%;
+	width: 70%;
 	text-align: center;
 }
 
 .first {
-	margin-top: 80px;
+	margin-top: 90px;
 }
 
 .firstmiddle h4 {
