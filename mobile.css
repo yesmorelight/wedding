@@ -5,17 +5,11 @@
 .main img {
 	margin-left: 0;
 	margin-right: 0;
-	width: 100%;
+	width: 120%;
 }
 
 .headimg {
-	margin-top: 50px;
-	width: 75%;
-}
-
-.arrow {
-	margin: auto;
-	width: 55px;
+	width: 90%;
 }
 
 .firstmiddle h4 {
