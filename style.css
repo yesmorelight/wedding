@@ -34,6 +34,8 @@ body {
   .heading img {
     display: block;
     margin: auto; }
+  .heading img {
+    margin-top: -12rem; }
   .heading #sec_img {
     display: none; } }
 
