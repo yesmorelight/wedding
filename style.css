@@ -1,0 +1,68 @@
+/*        GENERAL        */
+body {
+  background-image: url("img/bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+@font-face {
+  font-family: headingFont;
+  src: url(Nightingale.otf); }
+/*        HEADING        */
+.heading {
+  margin: 3rem 0; }
+  .heading h1 {
+    font-family: headingFont;
+    font-size: 8rem;
+    line-height: 14rem;
+    color: white;
+    text-align: center; }
+  .heading #mobileHeading {
+    display: none; }
+  .heading h2 {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-size: 5rem;
+    text-align: center; }
+  .heading img {
+    width: 13rem;
+    margin-top: -7rem;
+    display: block;
+    margin: auto; }
+
+.nav ul {
+  list-style: none;
+  text-align: center;
+  padding: 0; }
+.nav li {
+  display: inline-block;
+  margin: 0 2rem; }
+.nav a {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  font-size: 5rem; }
+
+/*        MEDIA QUERIES        */
+@media screen and (max-width: 700px) {
+  .heading h1 {
+    font-size: 4rem;
+    line-height: 7rem;
+    display: none; }
+  .heading #mobileHeading {
+    display: block;
+    width: 100%; }
+  .heading h2 {
+    font-size: 4rem;
+    text-align: center; }
+  .heading img {
+    margin-top: 0rem; }
+  .heading #sec_img {
+    display: none; }
+
+  .nav li {
+    display: block; } }
+@media screen and (max-width: 990px) {
+  #sec_img {
+    display: none; } }
+
+/*# sourceMappingURL=style.css.map */

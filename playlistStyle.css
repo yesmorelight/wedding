@@ -1,0 +1,75 @@
+	@font-face {
+    font-family: headingFont;
+    src: url(Nightingale.otf);
+	}
+
+    body {
+    	background: url("img/bg1.jpg");
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    }
+
+ul {
+	margin: 4rem 0 0 0;
+	padding: 0;
+	list-style-type: none
+}
+
+ul li {
+	position: relative;
+	padding: 12px 8px 12px 40px;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	font-size: 4rem;
+
+	/* Make list items unselectable */
+	-webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+
+/* zebra stripes */
+ul li:nth-child(odd) {
+	background-color: rgba(54, 25, 25, 0.5);
+}
+
+.header {
+	padding: 30px 40px;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-family: headingFont;
+}
+
+.header:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+input {
+	width: 80%;
+	margin-top: 4rem;
+	background-color: transparent;
+	color: white;
+	height: 4rem;
+	font-family: 'Amatic SC', cursive;
+	font-size: 3rem;
+}
+
+.addBtn {
+	color: white;
+	font-size: 2rem;
+	margin-left: 2rem;
+	font-family: 'Amatic SC', cursive;
+	font-size: 3rem;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
